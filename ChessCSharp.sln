@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessLogic", "ChessLogic\ChessLogic.csproj", "{CDA5509C-8EF8-4498-8DFD-869C6796C39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessUI", "ChessUI\ChessUI.csproj", "{A3D08029-9021-4DB3-855C-8F69F73792E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA5509C-8EF8-4498-8DFD-869C6796C39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA5509C-8EF8-4498-8DFD-869C6796C39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA5509C-8EF8-4498-8DFD-869C6796C39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA5509C-8EF8-4498-8DFD-869C6796C39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D08029-9021-4DB3-855C-8F69F73792E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D08029-9021-4DB3-855C-8F69F73792E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D08029-9021-4DB3-855C-8F69F73792E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D08029-9021-4DB3-855C-8F69F73792E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
